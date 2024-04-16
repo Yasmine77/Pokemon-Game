@@ -15,8 +15,8 @@ is a basic implementation of a Pokémon game in Python. It includes classes for 
 
 - **Choose Your Pokemon:** Select your main Pokemon from a diverse range of types.
 - **Engage in Battles:** Face off against randomly chosen opponent Pokemon in thrilling turn-based battles.
-- **Initiating a Fight: The game randomly selects an enemy Pokémon for the Trainer's active Pokémon to battle.
-- **Battle Logic: Pokémon can attack each other, and the game checks if either Pokémon is alive after each attack.
+- **Initiating a Fight:** The game randomly selects an enemy Pokémon for the Trainer's active Pokémon to battle.
+- **Battle Logic:** Pokémon can attack each other, and the game checks if either Pokémon is alive after each attack.
 - **Trainer Management:** Manage your collection of Pokemon, switch between them during battles.
 - **Intuitive Menu :**  menu system for seamless navigation and gameplay.
 
